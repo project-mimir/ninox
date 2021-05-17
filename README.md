@@ -1,2 +1,2 @@
 # ninox
-Captures price trends
+Captures trends
